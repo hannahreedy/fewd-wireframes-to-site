@@ -1,0 +1,51 @@
+body {
+	font-family: 'Lato', sans-serif;
+	text-align:center;
+}
+
+h1 {
+	font-weight:bold;
+	font-size: 60px;
+	color: orange;
+}
+
+h2 {
+	font-size:25px;
+}
+
+h3 {
+	font-size: 20px;
+}
+
+h4 {
+	font-size: 18px;
+}
+
+img {
+	display:block;
+	margin: auto;
+	width: 20%;
+}
+
+li {
+	list-style:none;
+	text-align: center;
+	display:inline;
+	padding: 7px;
+}
+
+.header{
+	display:block;
+	text-align: center;
+	padding-bottom:30px;
+}
+
+.list {
+	display:block;
+
+}
+
+.entertainment {
+	border-bottom:3px dashed red;
+	padding-bottom:5px;
+}
